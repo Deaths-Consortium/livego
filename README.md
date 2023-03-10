@@ -10,6 +10,8 @@
 - [ ] Remove push/pull stream related nonsense
 - [ ] Prometheus metrics endpoint
 
+[Original Repository by gwuhaolin](https://github.com/gwuhaolin/livego)
+
 [中文](./README_cn.md)
 
 [![Test](https://github.com/gwuhaolin/livego/workflows/Test/badge.svg)](https://github.com/gwuhaolin/livego/actions?query=workflow%3ATest)
