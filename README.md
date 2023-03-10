@@ -2,6 +2,14 @@
     <img src='./logo.png' width='200px' height='80px'/>
 </p>
 
+# TODO
+- [ ] Ignore `livego.yaml` for "static keys", use a read-only JSON or sqlite DB
+- [ ] Remove API endpoints for generating keys
+- [ ] Remove all the FLV related nonsense
+- [ ] Remove writing streams to disk (FLV related?)
+- [ ] Remove push/pull stream related nonsense
+- [ ] Prometheus metrics endpoint
+
 [中文](./README_cn.md)
 
 [![Test](https://github.com/gwuhaolin/livego/workflows/Test/badge.svg)](https://github.com/gwuhaolin/livego/actions?query=workflow%3ATest)
