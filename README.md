@@ -4,6 +4,7 @@
 
 # TODO
 - [ ] Ignore `livego.yaml` for "static keys", use a read-only JSON or sqlite DB
+- [ ] Remove Redis support
 - [ ] Remove API endpoints for generating keys
 - [ ] Remove all the FLV related nonsense
 - [ ] Remove writing streams to disk (FLV related?)
